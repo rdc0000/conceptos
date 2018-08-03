@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+	font-size: 72px;
+}
+p{
+	font-size: 2.125px;
+/* tamaño de la fuente em 1em = 16px = 14px = 34px / 16 px = 2.125 cm */
+	font-family: Georgia, serif;
+ /* estilo de fuente */
+    font-weight: 900;
+   /*  peso de la fuente normal:  normal, bold, bolder, lighter, 100 a 900, inherit   */
+   font-style: oblique;
+ /* estilo de fuente normal */
+   font-variant: small-caps; 
+    /*variante  de fuente */
+    line-height: 200px;
+}
+
+
+.par1{ 
+	border:red thin solid;
+}
+.par2{ 
+	border:blue medium solid;
+}
+.par3{ 
+	border:yellow thick solid;
+}
+.par4{ 
+	border:red 20px double;
+}
+.par5{ 
+	border:green 30px dotted;
+}
+.par6{ 
+	border:red 35px dashed;
+}
+.par7{ 
+	border:red 30px groove;
+}
+.par8{ 
+	border:red 30px ridge;
+}
+.par9{ 
+	border:red 25px inset;
+}
+.par10{ 
+	border:red 25px outset;
+}
+em{
+	font-weight: bolder;
+}
