@@ -1,0 +1,24 @@
+body.{
+	background-color: green;
+}
+h1{
+	text-align: center;
+}
+p,code,s,strike{
+	font-size: 62;
+}
+p{
+	font-size: 72px;
+}
+.crs2{
+	color: #5231B2;
+	font-size: 64px;
+}
+.crs1{
+	/* propiedad de fonde */
+	background-color: #D83E3E;
+	font-size: 50px;
+}
+p em{
+	background-color: #538DB9
+}
